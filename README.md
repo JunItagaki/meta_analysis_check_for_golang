@@ -1,0 +1,2 @@
+# meta_analysis_check_for_golang
+メタ分析診断の度合いを計測する分析テストをgo言語
