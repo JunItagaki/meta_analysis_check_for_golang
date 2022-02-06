@@ -3,6 +3,13 @@
 ## Introduction
 メタ分析診断の度合いを計測する分析テストをgo言語
 
+## Env
+
+go1.16.6
+
+- dokcer
+https://github.com/JunItagaki/golang-project
+
 ## Details
 
 【 URL 】
